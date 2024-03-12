@@ -1,7 +1,7 @@
 [![Register for our webinar](./banner.jpeg)](http://cdr.co/yNjg3OA)
 
 > **Info**
-> March 26th @ 10am PDT. [Register here!](http://cdr.co/yNjg3OA)
+> March 27th @ 10am PDT. [Register here!](http://cdr.co/yNjg3OA)
 
 # Backstage + Coder: The Full Software Development Lifecycle
 
