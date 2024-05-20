@@ -1,7 +1,7 @@
 [![Register for our webinar](./banner.jpeg)](http://cdr.co/2MjUxMw)
 
 > **Info**
-> March 27th @ 10am PDT. [Register here!](http://cdr.co/2MjUxMw)
+> May 28th @ 10am PDT. [Register here!](http://cdr.co/2MjUxMw)
 
 # Deploy GenAI at Scale with Coder
 
