@@ -1,0 +1,8 @@
+  nodeSelector: 
+    tier: ctrlplane
+
+  tolerations:
+  - key: "tier"
+    operator: "Equal"
+    value: "ctrlplane"
+    effect: "NoSchedule"
