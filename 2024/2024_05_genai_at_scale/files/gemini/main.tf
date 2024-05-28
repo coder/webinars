@@ -123,7 +123,7 @@ resource "coder_agent" "main" {
     else
       echo "gcloud already installed"
     fi
-    /tmp/code-server/bin/code-server --install-extension googlecloudtools.cloudcode
+    /tmp/code-server/bin/code-server --install-extension googlecloudtools.cloudcode@2.9.1
 
   EOT
 

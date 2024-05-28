@@ -13,7 +13,7 @@ module "vscode-web" {
   source         = "registry.coder.com/modules/vscode-web/coder"
   version        = "1.0.6"
   agent_id       = coder_agent.main.id
-  extensions     =["github.copilot", "ms-python.python"]
+  extensions     =["github.copilot@1.195.0", "ms-python.python"]
   accept_license = true
 }
 
