@@ -1,7 +1,7 @@
-[![Register for our webinar](./banner.png)](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
+[![Register for our webinar](./banner.png)](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
 
 > **Info**
-> June 25th  @ 10am PDT. [Register here!](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
+> June 25th  @ 10am PDT. [Register here!](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
 
 # Deploy AI/ML Development Tooling at Scale with Coder
 
