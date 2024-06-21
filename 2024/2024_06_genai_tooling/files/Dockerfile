@@ -20,4 +20,3 @@ RUN useradd --groups sudo --no-create-home --shell /bin/bash ${USER} \
 	&& chmod 0440 /etc/sudoers.d/${USER}
 USER ${USER}
 WORKDIR /home/${USER}
-RUN curl -fsSL https://ollama.com/install.sh | sh
