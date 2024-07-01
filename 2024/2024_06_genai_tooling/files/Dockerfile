@@ -10,8 +10,8 @@ RUN apt-get update \
 	wget \
 	python3 \
 	python3-pip \
+	htop \
 	lshw \ 
-        htop \
 	&& rm -rf /var/lib/apt/lists/*
 
 ARG USER=coder
