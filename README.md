@@ -1,12 +1,17 @@
-[![Register for our webinar](./banner.png)](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
+[![Register for our webinar](./banner.png)](https://coder.com/webinars/from-discovery-to-value-a-global-financial-services-company-success-story-with-co/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
 
 > **Info**
-> June 25th  @ 10am PDT. [Register here!](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
+> July 23rd  @ 10am PDT. [Register here!](https://coder.com/webinars/from-discovery-to-value-a-global-financial-services-company-success-story-with-co/register?utm_campaign=&utm_source=github&utm_medium=owned-social&utm_content=webinar&utm_term=)
 
-# Deploy AI/ML Development Tooling at Scale with Coder
+# From Discovery to Value: A Global Financial Services Company Success Story with Coder
 
-Explore the capabilities of deploying AI/ML development tooling at scale using Coder. This webinar will dive into the practical applications and efficiencies one can achieve through Coder's innovative solution.
-In this webinar you will learn how to:
-  * Use Coder’s enterprise features to deploy a Cloud Development Environment that scalable and resilient
-  * Design powerful yet cost effective GPU enabled Kubernetes clusters
-  * Deploy LLMs and machine learning libraries in a consistent and secure manner while maintaining the governance that large enterprises and regulated entities require
+Journey through one of our pioneering Global Financial Services customer success stories as they share their experiences with Coder. As early adopters of our commercial offering, they have successfully integrated and expanded their use cases with Coder.
+
+In this webinar you'll learn:
+
+  * How a global financial services customer discovered Coder and what initially attracted them to it.
+  * Key use cases, decision criteria during the POV engagement, and the tangible benefits realized.
+  * Upcoming plans for further leveraging Coder's capabilities
+
+
+Don't miss this opportunity to gain valuable insights from real-world experiences and understand the transformative impact Coder can have on your organization.
